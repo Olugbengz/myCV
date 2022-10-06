@@ -1,0 +1,1 @@
+#MyCV I am Olugbenga Okundaye, a newbie software developer. Trying to get grounded in Python, JS, CSS and HTML. I am a very good team player, and an optimist. I want to learn and always add value. I motivate people. My interest are building business and healthcare apps. I can,t wait to know artificial intelligence.
